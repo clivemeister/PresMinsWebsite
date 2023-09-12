@@ -1,0 +1,4 @@
+baseURL = 'http://presentminutes.co.uk/'
+languageCode = 'en-us'
+title = 'Present Minutes - for everyday meditation'
+theme = 'ananke'
