@@ -2,7 +2,7 @@
 title: "Five Levels of Mind"
 description: "Loch Kelly very helpfully describes five levels of mind"
 summary: "In his writings on meditation, the contemporary meditator and psuchologist Loch Kelly talks about five levels of mind: everyday mind, subtle mind, pure consciousness, awareness energy, and heart-mind."
-featured_image: "/images/five-levels-of-mind.jpg"
+featured_image: "five-levels-of-mind.jpg"
 date: 2023-09-12T17:04:43+01:00
 draft: true
 ---
