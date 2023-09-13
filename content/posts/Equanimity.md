@@ -5,7 +5,6 @@ date: 2023-09-12T17:04:25+01:00
 tags: []
 summary: "Equanimity for Buddhists is one of the four highest emotions, one of the states we aspire to live in and live by.  We see it as the ground for wisdom, the protector of compassion and love, and as full of radiance and warmth for others.  It's a quality we can consciously cultivate through meditation."
 featured_image: "/images/equanimity-limestone-karsts-sunrise.jpg"
-draft: true
 ---
 
 Equanimity is one of the most sublime emotions of Buddhist practice. It is the ground for wisdom and freedom and the protector of compassion and love. While some may think of equanimity as dry neutrality or cool aloofness, mature equanimity produces a radiance and warmth of being. The Buddha described a mind filled with equanimity as “abundant, exalted, immeasurable, without hostility and without ill-will.”
