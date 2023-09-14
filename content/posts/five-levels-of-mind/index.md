@@ -12,5 +12,3 @@ In his writings on meditation, the contemporary meditator and psuchologist Loch 
 3. Pure consciousness, awake awareness: timeless, boundless, contentless, but alert non dual awareness - looking back from big sky mind to the world
 4. Same taste, awareness energy: from pure consciousness to self energy, unity of emptiness and appearence; from pure awareness you remain like the sky, and it's coming and going in the sky itself, and you remain the same taste through it and made of it
 5. Heart-mind: not only okness, but subtle bliss or unconditional love or heart-mind
-
-
