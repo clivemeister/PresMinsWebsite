@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guided meditations on Present Minutes - for everyday meditation</title>
+    <link>http://presentminutes.co.uk/tags/guided-meditations/</link>
+    <description>Recent content in guided meditations on Present Minutes - for everyday meditation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2023 12:32:25 +0100</lastBuildDate><atom:link href="http://presentminutes.co.uk/tags/guided-meditations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guided meditations</title>
+      <link>http://presentminutes.co.uk/meditations/</link>
+      <pubDate>Wed, 25 Jan 2023 12:32:25 +0100</pubDate>
+      
+      <guid>http://presentminutes.co.uk/meditations/</guid>
+      <description>Here are some guided meditations that you might find useful for your own practice. Your browser will likely let you play them directly from this page, but you can also download the MP3 files and store them on your phone or media player to use at your convenience - click on the three dots at the right-hand end to download.</description>
+    </item>
+    
+  </channel>
+</rss>

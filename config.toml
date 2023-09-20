@@ -14,12 +14,8 @@ enableRobotsTXT = true
   [languages.en]
     title = "Ananke"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "content"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
-    title = "Ananke Fr"
-    weight = 2
-    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
@@ -28,7 +24,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Clive Freeman"
   favicon = ""
   site_logo = ""
   description = "Meditation for real life."

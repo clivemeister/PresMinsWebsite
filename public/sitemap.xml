@@ -2,10 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://presentminutes.co.uk/categories/</loc>
+    <loc>http://presentminutes.co.uk/meditations/</loc>
+    <lastmod>2023-01-25T12:32:25+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/welcome/</loc>
+    <lastmod>2022-01-21T14:37:20+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/</loc>
+    <lastmod>2023-09-14T17:03:03+01:00</lastmod>
   </url><url>
     <loc>http://presentminutes.co.uk/</loc>
+    <lastmod>2023-09-14T17:03:03+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/some-days-suck/</loc>
+    <lastmod>2023-09-14T17:03:03+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/enjoying-your-chores/</loc>
+    <lastmod>2023-09-12T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/five-levels-of-mind/</loc>
+    <lastmod>2023-09-12T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/equanimity/</loc>
+    <lastmod>2023-09-12T17:04:25+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/tags/guided-meditations/</loc>
+    <lastmod>2023-01-25T12:32:25+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/tags/recordings/</loc>
+    <lastmod>2023-01-25T12:32:25+01:00</lastmod>
   </url><url>
     <loc>http://presentminutes.co.uk/tags/</loc>
+    <lastmod>2023-01-25T12:32:25+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/forget-then-remember/</loc>
+    <lastmod>2022-06-03T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/seeing-is-not-believing/</loc>
+    <lastmod>2022-02-13T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/doubts/</loc>
+    <lastmod>2022-02-10T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/good-and-bad/</loc>
+    <lastmod>2021-03-26T15:49:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/action-for-difficult-times/</loc>
+    <lastmod>2020-04-03T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/posts/overcast-with-clear-spells/</loc>
+    <lastmod>2020-03-12T17:04:43+01:00</lastmod>
+  </url><url>
+    <loc>http://presentminutes.co.uk/categories/</loc>
   </url>
 </urlset>
