@@ -3,6 +3,7 @@ title: "Space in My Head"
 description: "Where is everything, really?  Is it all in your head?"
 summary: "Non duality is about recognising what's really going on, second by second, and being ok with that"
 date: 2024-09-25T17:02:59+01:00
+featured-image: "gas-giant-in-space.jpg"
 draft: false
 ---
 Imagine you are floating in space, I said to my friend. Except it's not like outer space (although that would be pretty cool, wouldn't it, to be floating out there, warm and cozy in the blackness, maybe near a gas giant with beautiful rings around it, with just the pinpoints of ten thousand stars as your companions, and the distant slightly larger orb of a sun?)  No, I said, the open awareness of meditation is a sort of inner space that's absolutely vast but still fits inside your head.  In it are all the things we encounter in our life - that tingling on our scalp, the pain in our knee, the feeling of our tongue in our mouth, the noise of the man with the chainsaw cutting down the tree next door, the weird floaty colours behind our closed eyelids.  And also our thoughts, of course, they're in there too.  
