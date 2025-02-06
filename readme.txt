@@ -40,13 +40,3 @@ Delete now-merged branch:
 
 Hosted on Render, via Github  (Render is clive@freeman.org.uk)
 Ought to be automatically deployed, but seems to need you to log on to Render.com and poke it
-
-## 2025-01-07
-OK so now we should be set up with the following events:
- - {{Page Path}} for all pages
- - sign_up_started
- - sign_up_addpymt
- - login
- - new_goal_started
- - new_goal_finished
- - goal_deleted
