@@ -30,9 +30,23 @@ Click "Create Pull request"
 We could now review on Render, if we are using the "Pull request previews" feature.
 
 When ready, on Github click "Merge pull request", using an appropriate method (squash and merge is probably appropriate here)
-Delete merged branch:
+
+Switch to main and pull newest (merged) version:
+ git checkout main
+ git pull
+
+Delete now-merged branch:
  git branch -d new-post-feature
 
 Hosted on Render, via Github  (Render is clive@freeman.org.uk)
 Ought to be automatically deployed, but seems to need you to log on to Render.com and poke it
 
+## 2025-01-07
+OK so now we should be set up with the following events:
+ - {{Page Path}} for all pages
+ - sign_up_started
+ - sign_up_addpymt
+ - login
+ - new_goal_started
+ - new_goal_finished
+ - goal_deleted
