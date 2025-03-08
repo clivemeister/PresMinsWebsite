@@ -39,4 +39,4 @@ Delete now-merged branch:
  git branch -d new-post-feature
 
 Hosted on Render, via Github  (Render is clive@freeman.org.uk)
-Ought to be automatically deployed, but seems to need you to log on to Render.com and poke it
+Ought to be automatically deployed, but seems to need you to log on to https://dashboard.render.com/login and poke it
