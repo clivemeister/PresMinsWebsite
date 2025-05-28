@@ -1,6 +1,6 @@
 ---
 title: "How we change all the time"
-date: 2023-02-0619T17:10:04+01:00
+date: 2023-02-06
 ---
 One of the things you'll recognise about yourself if you are at all self-aware is that you're somewhat of a different person this year, compared to a few years ago. You've perhaps had a few knocks, maybe a couple of lucky breaks, and you've learned from these experiences, and you've changed. Some of this is going to be for the better, and some of it is likely for the worse - we all age, get sick, end up in a ridiculous fight with our loved ones about who's turn it is to walk the dog in the rain or whatever. This is, as we would all acknowledge, just life.  
 
